@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Plugin1
+Bundle-SymbolicName: org.tycho.test.plugin1
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: org.tycho.test.plugin1
+Bundle-RequiredExecutionEnvironment: JavaSE-11

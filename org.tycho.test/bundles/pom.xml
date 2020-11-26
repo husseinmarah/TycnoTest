@@ -1,0 +1,17 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>org.tycho.test</groupId>
+    <artifactId>org.tycho.test.bundles</artifactId>
+    <version>1.0.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <parent>
+    <groupId>org.tycho.test</groupId>
+     <artifactId>org.tycho.test.root</artifactId>
+      <version>1.0.0-SNAPSHOT</version>
+    </parent>
+
+    <modules>
+        <module>org.tycho.test.plugin1</module>                                      
+    </modules>
+</project>
